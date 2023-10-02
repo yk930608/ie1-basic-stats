@@ -26,7 +26,7 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 * Computes the median of the set of numbers.
 * Computes the mode of the set of numbers.
 
-## Troubleshooting
+## Debugging
 
 #### Outdated version of JUnit
 If your system uses an outdated version of JUnit, you may encounter the following error:
